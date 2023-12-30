@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "amplifyapp56ea2465": {}
+      },
+      "api": {
+        "amplifyapp": {}
+      },
+      "storage": {
+        "amplifyapp": {}
       }
     }
   }
